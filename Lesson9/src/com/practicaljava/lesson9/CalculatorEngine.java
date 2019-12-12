@@ -24,10 +24,8 @@ public class CalculatorEngine implements ActionListener {
 		// display field. Reaching inside another object is bad.
 		String dispFieldText = parent.getDisplayValue();
 		dot = dispFieldText.contains(".");
-		System.out.println(dot);
-		if (!dispFieldText.equals("")) {
+		if (!dispFieldText.equals(""))
 			enteredNumber = Double.parseDouble(dispFieldText);
-		}
 
 		if (clickedButton.getText().equals("+")) {
 			selectedAction = "+";
@@ -66,15 +64,15 @@ public class CalculatorEngine implements ActionListener {
 		else {
 
 			if (!clickedButton.getText().equals("=")) {
-				if ((clickedButton.getText().equals(".")) && dot){}				
-			}else
+				if ((clickedButton.getText().equals(".")) && dot){}
+				else
 				{
 					// Get the button's label
 					String clickedButtonLabel = clickedButton.getText();
 					parent.setDisplayValue(dispFieldText + clickedButtonLabel);
 				}
 
+			}
 		}
 	}
 }
-

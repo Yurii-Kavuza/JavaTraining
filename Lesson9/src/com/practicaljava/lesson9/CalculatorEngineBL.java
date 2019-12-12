@@ -68,13 +68,13 @@ public class CalculatorEngineBL implements ActionListener {
 
 			if (!clickedButton.getText().equals("=")) {
 				if ((clickedButton.getText().equals(".")) && dot){}				
-			}else
+			else
 				{
 					// Get the button's label
 					String clickedButtonLabel = clickedButton.getText();
 					parent.setDisplayValue(dispFieldText + clickedButtonLabel);
 				}
-
+			}
 		}
 	}
 }

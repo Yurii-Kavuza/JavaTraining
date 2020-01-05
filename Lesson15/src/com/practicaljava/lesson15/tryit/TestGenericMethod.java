@@ -17,8 +17,8 @@ public class TestGenericMethod {
 		
 		for (Employee employee : listEmpl) {
 			System.out.println(employee.getName());
-			System.out.println(employee.getClass());
-			System.out.println(employee);
+			//System.out.println(employee.getClass());
+			//System.out.println(employee);
 			System.out.println("");
 		}
 

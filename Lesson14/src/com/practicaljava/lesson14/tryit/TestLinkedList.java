@@ -15,8 +15,9 @@ public class TestLinkedList {
 		ListIterator iterator = passengerList.listIterator();
 		
 		System.out.println(iterator.next());
-		passengerList.add("VIP customer");
-		//iterator.previous();
+		//passengerList.add("VIP customer");
+		iterator.add("VIP customer");
+		iterator.previous();
 		System.out.println(iterator.next());
 		System.out.println(iterator.next());
 		System.out.println(iterator.next());

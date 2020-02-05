@@ -1,0 +1,10 @@
+package quizful.net;
+
+public class TryIt {
+
+	public static void main(String[] args) {
+		Extra extra1 = new Extra(null);		
+
+	}
+
+}

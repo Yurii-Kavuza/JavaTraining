@@ -1,0 +1,16 @@
+package com.practicaljava.lesson16.tryit;
+
+import java.io.IOException;
+
+public class ReadZip2 {
+
+	public static void main(String[] args) {
+		try {
+			
+		} catch (IOException e) {
+			// TODO: handle exception
+		}
+
+	}
+
+}

@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+G:\Þðà\Prog\Java\Y.Fain Homework\JavaTraining\.metadata\.plugins\org.eclipse.jdt.core
+3472647176.index
+3197538439.index
+692341007.index
+1475687858.index
+3120256158.index
+552731940.index
+1657330681.index

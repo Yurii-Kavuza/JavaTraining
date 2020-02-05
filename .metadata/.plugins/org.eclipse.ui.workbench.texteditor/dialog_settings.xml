@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="resultOrder"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="order"/>
+			<item value="point"/>
+			<item value="repaint"/>
+			<item value="setPoint"/>
+			<item value="buttonNames"/>
+			<item value="buttonM"/>
+			<item value="constraints.insets=new Insets(2,2,2,6);"/>
+			<item value="constraints.CENTER;"/>
+			<item value="2,2,2,4"/>
+			<item value="5, 5, 5, 10"/>
+			<item value="5, 5, 5, 5"/>
+			<item value="constraints.weighty=1.0;"/>
+			<item value="constraints.weightx=0.0;"/>
+			<item value="constraints.weightx=1.0;"/>
+			<item value="HORIZONTAL"/>
+		</list>
+		<list key="replacehistory">
+			<item value="resultOrder"/>
+			<item value="constraints.insets=new Insets(2,4,2,6);"/>
+			<item value="2,2,2,6"/>
+			<item value="2,2,2,4"/>
+			<item value="2,2,2,2"/>
+			<item value="GridBagConstraints.CENTER;"/>
+			<item value="constraints.weighty=1.0; constraints.anchor=constraints.CENTER;"/>
+			<item value="constraints.weightx=1.0;"/>
+			<item value="constraints.weighty=2.0;"/>
+			<item value="constraints.weighty=0.0;"/>
+			<item value="constraints.weightx=0.0;"/>
+			<item value="BOTH"/>
+			<item value="Person"/>
+			<item value="Payable"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="915"/>
+		<item key="DIALOG_Y_ORIGIN" value="257"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="390"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

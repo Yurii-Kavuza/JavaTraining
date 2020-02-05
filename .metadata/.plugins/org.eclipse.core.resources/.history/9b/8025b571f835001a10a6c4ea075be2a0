@@ -1,0 +1,15 @@
+package lesson14;
+
+public class TryIt {
+
+	public static void main(String[] args) {
+		double x=0;
+		double z=0.12;
+		
+		for (; x<=13.08;x+=0.12) {
+			System.out.println("x=" + x);
+		}
+
+	}
+
+}

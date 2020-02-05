@@ -1,0 +1,8 @@
+package quizful.net;
+
+public class Extra {
+	public <Extra> Extra (Extra extra){
+		
+	}
+
+}
